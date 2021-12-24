@@ -14,5 +14,13 @@ Simulation Video for this project: https://youtu.be/-t93TXCeHXQ
 - Jumper Cable
 
 ## Architecture
+<div>
+  <img src="https://github.com/RichardAlvin/automatic-faucet/blob/master/Picture/Architecture.png" width="1500px">
+</div>
 
+## Photo
 
+<div>
+  <img src="https://github.com/RichardAlvin/automatic-faucet/blob/master/Picture/IMG_20210808_205847.jpg" display="inline" width=500>
+  <img src="https://github.com/RichardAlvin/automatic-faucet/blob/master/Picture/IMG_20210808_205900.jpg" display="inline" width=300>
+</div>
