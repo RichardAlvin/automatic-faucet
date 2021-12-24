@@ -1,6 +1,7 @@
 # automatic-faucet
+This is a project where you no longer need to manually open the faucet. You just need to put your hand under the faucet and the faucet will automatically open.
 
-This is a project where you no longer need to manually open the faucet. You just need to put your hand under the faucet and the faucet will automatically open
+Simulation Video for this project: https://youtu.be/-t93TXCeHXQ
 
 *Note:
 - This project doesn't have a power module yet, it's still via the usb cable from the laptop
